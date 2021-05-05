@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+npx degit https://github.com/sGabunia/React-template.git new-project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
